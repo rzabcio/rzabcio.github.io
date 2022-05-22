@@ -5,3 +5,5 @@ Jakub 'rzabcio' Głazik
 Board game geek, Java certified programmer, Jira administrator, sys-admin, GCP certified associtate, DevOps, Linux and Vim user and fan...
 
 ... so kinda jack of all trades.
+
+Get my CV [here](cv.md)
