@@ -5,27 +5,27 @@ Java certified programmer
 
 | Programming languages     | Platforms and servers      |
 | ------------------------- | -------------------------- |
-| ⬤⬤⬤⬤ Java (SE)            | ⬤⬤⬤◯ Apache (httpd)        |
-| ⬤⬤⬤◯ Groovy               | ⬤⬤⬤◯ Apache Tomcat         |
-| ⬤⬤◯◯ Bash                 | ⬤⬤◯◯ Google Cloud Platform |
-| ⬤⬤◯◯ JavaScript           | ⬤⬤◯◯ Kubernetes            |
-| ⬤⬤◯◯ Python               | ⬤◯◯◯ Docker                |
-| ⬤◯◯◯ Go                   |                            |
+| ●●●● Java (SE)            | ●●●○ Apache (httpd)        |
+| ●●●○ Groovy               | ●●●○ Apache Tomcat         |
+| ●●○○ Bash                 | ●●○○ Google Cloud Platform |
+| ●●○○ JavaScript           | ●●○○ Kubernetes            |
+| ●●○○ Python               | ●○○○ Docker                |
+| ●○○○ Go                   |                            |
 
 | Development tools | Other                       |
 | ----------------- | --------------------------- |
-| ⬤⬤⬤⬤ Git          | ⬤⬤⬤⬤ Jira (+administration) |
-| ⬤⬤⬤◯ Bamboo       | ⬤⬤⬤◯ Confluence             |
-| ⬤⬤⬤◯ Gitlab       | ⬤⬤⬤◯ PKI                    |
-| ⬤⬤⬤◯ R2Bucket     | ⬤⬤⬤◯ Linux                  |
-| ⬤⬤⬤◯ Jenkins      | ⬤◯◯◯ Windows Server         |
-| ⬤⬤⬤◯ SVN          |                             |
-| ⬤⬤◯◯ Gitlab       |                             |
-| ⬤◯◯◯ Ansible      |                             |
-| ⬤◯◯◯ Terraform    |                             |
+| ●●●● Git          | ●●●● Jira (+administration) |
+| ●●●○ Bamboo       | ●●●○ Confluence             |
+| ●●●○ Gitlab       | ●●●○ PKI                    |
+| ●●●○ R2Bucket     | ●●●○ Linux                  |
+| ●●●○ Jenkins      | ●○○○ Windows Server         |
+| ●●●○ SVN          |                             |
+| ●●○○ Gitlab       |                             |
+| ●○○○ Ansible      |                             |
+| ●○○○ Terraform    |                             |
 
 ### Skill levels legend
-⬤⬤⬤⬤ master, ⬤⬤⬤◯ advanced, ⬤⬤◯◯ regular, ⬤◯◯◯ basic
+●●●● master, ●●●○ advanced, ●●○○ regular, ●○○○ basic
 
 # Project experience
 
