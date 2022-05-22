@@ -30,7 +30,7 @@ Java certified programmer
 # Project experience
 
 | Role                  | Company  | Period    | Skills                                                       | Description                                                                              |
-| --------------------- | -------- | --------- | ------------------------------------------------------------ | Description ---------------------------------------------------------------------------- |
+| --------------------- | -------- | --------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | Jira administrator    | Sygnity  | 2018-     | Jira, Groovy (ScriptRunner), Bamboo, R2Bucket, Linux, Tomcat | administering Atlassian on-premise stack, developing Jira-based scripted apps            |
 | System administrator  | Sygnity  | 2018-     | Linux, Bash, JavaScript, ...                                 | task supporting back-office servers and apps                                             |
 | Release administrator | Sygnity  | 2008-2019 | Jenkins, Ant, Maven, JBoss, Linux, Bash, JavaScript          | releasing Java EE app, merging changes between SVN branched, creating automation scripts |
