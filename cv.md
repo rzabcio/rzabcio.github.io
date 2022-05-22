@@ -3,7 +3,7 @@ Java certified programmer
 
 # Skills
 
-| Programming languages     | Platforms and servers      |
+| Programming               | Platforms                  |
 | ------------------------- | -------------------------- |
 | ●●●● Java (SE)            | ●●●○ Apache (httpd)        |
 | ●●●○ Groovy               | ●●●○ Apache Tomcat         |
@@ -12,7 +12,7 @@ Java certified programmer
 | ●●○○ Python               | ●○○○ Docker                |
 | ●○○○ Go                   |                            |
 
-| Development tools | Other                       |
+| Tools             | Other                       |
 | ----------------- | --------------------------- |
 | ●●●● Git          | ●●●● Jira (+administration) |
 | ●●●○ Bamboo       | ●●●○ Confluence             |
@@ -20,9 +20,11 @@ Java certified programmer
 | ●●●○ R2Bucket     | ●●●○ Linux                  |
 | ●●●○ Jenkins      | ●○○○ Windows Server         |
 | ●●●○ SVN          |                             |
+| ●●●○ Wazuh        |                             |
 | ●●○○ Gitlab       |                             |
 | ●○○○ Ansible      |                             |
 | ●○○○ Terraform    |                             |
+| ●○○○ Zabbix       |                             |
 
 ### Skill levels legend
 ●●●● master, ●●●○ advanced, ●●○○ regular, ●○○○ basic
