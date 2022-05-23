@@ -12,8 +12,8 @@ Java certified programmer
 | ●●○○ JavaScript         | ●●●○ Bitbucket (server) | ◆◆◇◇ Kubernetes            | ◈◈◈◇ Linux                 |
 | ●●○○ Python             | ●●●○ Jenkins            | ●○○○ Docker                | ◼◼◻◻ Crowd Server          |
 | ●○○○ Go                 | ●●●○ Wazuh              |                            | ◉○○○ Windows Server        |
-|                         | ●●○○ Gitlab             |                            |                            |
-|                         | ●●○○ Ansible            |                            |                            |
+|                         | ▮▮▯▯ Gitlab             |                            |                            |
+|                         | ◼◼◻◻ Ansible            |                            |                            |
 |                         | ●○○○ Terraform          |                            |                            |
 |                         | ●○○○ Zabbix             |                            |                            |
 
