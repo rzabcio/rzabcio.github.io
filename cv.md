@@ -17,7 +17,7 @@ Java certified programmer
 |                         | ▣▢▢▢ Terraform          |                              |                              |
 |                         | ▣▢▢▢ Zabbix             |                              |                              |
 
-> Legend: ◼◻◻◻ basic, ◼◼◻◻ regular, ◼◼◼◻ advanced, ◼◼◼◼ expert
+> Legend: ▣▢▢▢ basic, ▣▣▢▢ regular, ▣▣▣▢ advanced, ▣▣▣▣ expert
 
 
 # Project experience
