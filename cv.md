@@ -4,27 +4,18 @@ Java certified programmer
 
 # Skills
 
-| Programming         | Platforms               |
-| ----- | ----- |
-| ●●●● Java (SE)          | ●●●○ Apache (httpd)        |
-| ●●●○ Groovy             | ●●●○ Apache Tomcat         |
-| ●●○○ Bash               | ●●○○ Google Cloud Platform |
-| ●●○○ JavaScript         | ●●○○ Kubernetes            |
-| ●●○○ Python             | ●○○○ Docker                |
-| ●○○○ Go                 |                            |
-| Tools                 | Other             |
-| ----- | ----- |
-| ●●●● Git                | ●●●● Jira Server           |
-| ●●●○ Bamboo             | ●●●○ Confluence Server     |
-| ●●●○ Gitlab             | ●●●○ PKI                   |
-| ●●●○ Bitbucket (server) | ●●●○ Linux                 |
-| ●●●○ Jenkins            | ●●○○ Crowd Server          |
-| ●●●○ SVN                | ●○○○ Windows Server        |
-| ●●●○ Wazuh              |                            |
-| ●●○○ Gitlab             |                            |
-| ●○○○ Ansible            |                            |
-| ●○○○ Terraform          |                            |
-| ●○○○ Zabbix             |                            |
+| Programming             | Tools                   | Platforms                  | Other                      |
+| -----                   | -----                   | -----                      | -----                      |
+| ●●●● Java (SE)          | ●●●● Git                | ●●●○ Apache (httpd)        | ●●●● Jira Server           |
+| ●●●○ Groovy             | ●●●○ Bamboo             | ●●●○ Apache Tomcat         | ●●●○ Confluence Server     |
+| ●●○○ Bash               | ●●●○ Gitlab             | ●●○○ Google Cloud Platform | ●●●○ PKI                   |
+| ●●○○ JavaScript         | ●●●○ Bitbucket (server) | ●●○○ Kubernetes            | ●●●○ Linux                 |
+| ●●○○ Python             | ●●●○ Jenkins            | ●○○○ Docker                | ●●○○ Crowd Server          |
+| ●○○○ Go                 | ●●●○ Wazuh              |                            | ●○○○ Windows Server        |
+|                         | ●●○○ Gitlab             |                            |                            |
+|                         | ●●○○ Ansible            |                            |                            |
+|                         | ●○○○ Terraform          |                            |                            |
+|                         | ●○○○ Zabbix             |                            |                            |
 
 > Legend: ●○○○ basic, ●●○○ regular, ●●●○ advanced
 
