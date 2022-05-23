@@ -1,40 +1,40 @@
 # Jakub Głazik
 Java certified programmer 
 
-# Skills
-Legend: ⬤⬤⬤⬤ expert, ⬤⬤⬤◯ advanced, ⬤⬤◯◯ regular, ⬤◯◯◯ basic
 
-| Programming languages     | Platforms and servers       |
-| ------------------------- | --------------------------- |
-| ⬤⬤⬤⬤ Java (SE)            | ⬤⬤⬤◯ Apache (httpd)         |
-| ⬤⬤⬤◯ Groovy               | ⬤⬤⬤◯ Apache Tomcat          |
-| ⬤⬤◯◯ Bash                 | ⬤⬤◯◯ Google Cloud Platform  |
-| ⬤⬤◯◯ JavaScript           | ⬤⬤◯◯ Kubernetes             |
-| ⬤⬤◯◯ Python               | ⬤◯◯◯ Docker                 |
-| ⬤◯◯◯ Go                   |                             |
-| ------------------------- | --------------------------- |
-| Development tools         | Other                       |
-| ------------------------- | --------------------------- |
-| ⬤⬤⬤⬤ Git                  | ⬤⬤⬤⬤ Jira (+administration) |
-| ⬤⬤⬤◯ Bamboo               | ⬤⬤⬤◯ Confluence             |
-| ⬤⬤⬤◯ Gitlab               | ⬤⬤⬤◯ PKI                    |
-| ⬤⬤⬤◯ R2Bucket             | ⬤⬤⬤◯ Linux                  |
-| ⬤⬤⬤◯ Jenkins              | ⬤◯◯◯ Windows Server         |
-| ⬤⬤⬤◯ SVN                  |                             |
-| ⬤⬤◯◯ Gitlab               |                             |
-| ⬤◯◯◯ Ansible              |                             |
-| ⬤◯◯◯ Terraform            |                             |
+# Skills
+* Legend: ⬤⬤⬤⬤ expert, ⬤⬤⬤◯ advanced, ⬤⬤◯◯ regular, ⬤◯◯◯ basic
+
+| Programming               | Platforms                  |
+| ------------------------- | -------------------------- |
+| ●●●● Java (SE)            | ●●●○ Apache (httpd)        |
+| ●●●○ Groovy               | ●●●○ Apache Tomcat         |
+| ●●○○ Bash                 | ●●○○ Google Cloud Platform |
+| ●●○○ JavaScript           | ●●○○ Kubernetes            |
+| ●●○○ Python               | ●○○○ Docker                |
+| ●○○○ Go                   |                            |
+
+| Tools                   | Other                              |
+| -----------------       | ---------------------------        |
+| ●●●● Git                | ●●●● Jira Server                   |
+| ●●●○ Bamboo             | ●●●○ Confluence Server             |
+| ●●●○ Gitlab             | ●●●○ PKI                           |
+| ●●●○ Bitbucket (server) | ●●●○ Linux                         |
+| ●●●○ Jenkins            | ●●○○ Crowd Server                  |
+| ●●●○ SVN                | ●○○○ Windows Server                |
+| ●●●○ Wazuh              |                                    |
+| ●●○○ Gitlab             |                                    |
+| ●○○○ Ansible            |                                    |
+| ●○○○ Terraform          |                                    |
+| ●○○○ Zabbix             |                                    |
+
 
 # Project experience
 
 ## Atlassian administrator
-* Sygnity, 2018-
-
-* Skills:
-  Jira, Groovy (ScriptRunner), Bamboo, R2Bucket, Linux, Tomcat
-
-* Responsibilities:
-  administering Atlassian on-premise stack, developing Jira-based scripted apps
+* *Sygnity*, 2018-
+* **Skills:** Jira, Groovy, Bamboo, BitBucket, Linux/Bash, Windows Server, Tomcat, Python
+* *Responsibilities:* Atlassian on-premise stack maintenance, administering  apps (users, projects, workflows, plugins), Groovy-scripted (ScriptRunner) Jira-based apps
 
 
 | System administrator  | Sygnity  | 2018-     | Linux, Bash, JavaScript, ...                                 | task supporting back-office servers and apps                                             |
