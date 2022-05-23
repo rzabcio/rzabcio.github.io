@@ -12,8 +12,8 @@ Java certified programmer
 | ●●○○ JavaScript         | ●●○○ Kubernetes            |
 | ●●○○ Python             | ●○○○ Docker                |
 | ●○○○ Go                 |                            |
-
 | Tools                 | Other             |
+| ----- | ----- |
 | ●●●● Git                | ●●●● Jira Server           |
 | ●●●○ Bamboo             | ●●●○ Confluence Server     |
 | ●●●○ Gitlab             | ●●●○ PKI                   |
