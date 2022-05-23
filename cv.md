@@ -32,10 +32,10 @@
 ## Atlassian Administrator/Developer
 Sygnity, 2018-now
 
-* **Skills:**
+* Skills:
 > Jira, Bitbucket, Bamboo, Confluence, Groovy, Linux, Bash, Windows Server, Tomcat, Python
 
-* *Responsibilities:*
+* Responsibilities:
 > Atlassian on-premise stack maintenance - users, permissions, project configurations, workflows, plugins - but also servers administration. A lot of customization of Jira-based apps, including mailny Groovy-scripted. Creating and managin ScriptRunner source files pipeline. Custom Jira plugins developer (mainly reports). Online and on-site Git training for teams moving from SVN. Support for teams while implementing DevOps pipelines on BitBucket/Bamboo Server.
 
 
@@ -51,17 +51,17 @@ Sygnity, 2018-
 ## Release Administrator
 Sygnity, 2008-2019
 
-### Skills:
+#### Skills:
 > Jenkins, Ant, Maven, JBoss, Linux, Bash, JavaScript
 
-### Responsibilities
+#### Responsibilities
 > Merging changes between SVN branches and releasing verions. Migrating building from local machine to Jenkins pipeline. Creating and managing automation scripts (mix of Ant, Maven and Bash).
 
 ## Java Developer
 Projekty Bankowe Polsoft, 2005-2008
 
-## Skills:
+##### Skills:
 > Java SE, PKI architecture.
 
-## Responsibilities
+##### Responsibilities
 > Developing Bouncy Castle library-based application for signing documents in workflow web application. Designing Java-applet interface. Connecting to various hardware token providers. Windows Server CA administration.
