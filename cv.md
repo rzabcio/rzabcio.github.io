@@ -1,5 +1,12 @@
 # Jakub Głazik
-* Java certified programmer, Poznan University of Technology graduate, Math master degree. Jira administrator, sys-admin, DevOps, GCP certified enginee, Linux and Vim enthusiast. Board game geek, dog person. ![photo](https://en.gravatar.com/userimage/10277007/f1469d1db1ea03c34a7fafd64479ffed?size=400)
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td>Java certified programmer, Poznan University of Technology graduate, Math master degree.<br/>
+      Jira administrator, sys-admin, DevOps, GCP certified enginee, Linux and Vim enthusiast.<br/>
+      Board game geek, dog person.</td>
+    <td><img src="https://en.gravatar.com/userimage/10277007/f1469d1db1ea03c34a7fafd64479ffed?size=200"/></td>
+   </td
+ <table>
 
 ---
 # Skills
