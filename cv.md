@@ -4,29 +4,26 @@ Java certified programmer
 # Skills
 Legend: ⬤⬤⬤⬤ expert, ⬤⬤⬤◯ advanced, ⬤⬤◯◯ regular, ⬤◯◯◯ basic
 
-| Programming               | Platforms                   |
+| Programming languages     | Platforms and servers       |
 | ------------------------- | --------------------------- |
-| ●●●● Java (SE)            | ●●●○ Apache (httpd)         |
-| ●●●○ Groovy               | ●●●○ Apache Tomcat          |
-| ●●○○ Bash                 | ●●○○ Google Cloud Platform  |
-| ●●○○ JavaScript           | ●●○○ Kubernetes             |
-| ●●○○ Python               | ●○○○ Docker                 |
-| ●○○○ Go                   |                             |
+| ⬤⬤⬤⬤ Java (SE)            | ⬤⬤⬤◯ Apache (httpd)         |
+| ⬤⬤⬤◯ Groovy               | ⬤⬤⬤◯ Apache Tomcat          |
+| ⬤⬤◯◯ Bash                 | ⬤⬤◯◯ Google Cloud Platform  |
+| ⬤⬤◯◯ JavaScript           | ⬤⬤◯◯ Kubernetes             |
+| ⬤⬤◯◯ Python               | ⬤◯◯◯ Docker                 |
+| ⬤◯◯◯ Go                   |                             |
 | ------------------------- | --------------------------- |
-| Tools                     | Other                       |
+| Development tools         | Other                       |
 | ------------------------- | --------------------------- |
-| ●●●● Git                  | ●●●● Jira (+administration) |
-| ●●●○ Bamboo               | ●●●○ Confluence             |
-| ●●●○ Gitlab               | ●●●○ PKI                    |
-| ●●●○ R2Bucket             | ●●●○ Linux                  |
-| ●●●○ Jenkins              | ●○○○ Windows Server         |
-| ●●●○ SVN                  |                             |
-| ●●●○ Wazuh                |                             |
-| ●●○○ Gitlab               |                             |
-| ●○○○ Ansible              |                             |
-| ●○○○ Terraform            |                             |
-| ●○○○ Zabbix               |                             |
-
+| ⬤⬤⬤⬤ Git                  | ⬤⬤⬤⬤ Jira (+administration) |
+| ⬤⬤⬤◯ Bamboo               | ⬤⬤⬤◯ Confluence             |
+| ⬤⬤⬤◯ Gitlab               | ⬤⬤⬤◯ PKI                    |
+| ⬤⬤⬤◯ R2Bucket             | ⬤⬤⬤◯ Linux                  |
+| ⬤⬤⬤◯ Jenkins              | ⬤◯◯◯ Windows Server         |
+| ⬤⬤⬤◯ SVN                  |                             |
+| ⬤⬤◯◯ Gitlab               |                             |
+| ⬤◯◯◯ Ansible              |                             |
+| ⬤◯◯◯ Terraform            |                             |
 
 # Project experience
 
