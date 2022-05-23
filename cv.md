@@ -22,6 +22,11 @@
 > Legend: ▣▢▢▢ basic, ▣▣▢▢ regular, ▣▣▣▢ advanced, ▣▣▣▣ expert
 
 
+# Certifications
+* Sun Certified Java Programmer for Java 1.5.
+* [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/78b480e5-2bf8-4539-94fc-c2e32cd9ed01?key=3628f63f8b96f9db5ad46e29e8c6463359da22fa088ed79e8d503273951d6103&record_view=true)
+
+
 # Project experience
 
 ## Atlassian Administrator/Developer
