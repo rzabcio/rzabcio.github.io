@@ -9,8 +9,12 @@
 > ✉ rzabcio@gmail.com
 > 🖁 +48 501649677
 
+* Motto:
+> *When playing a game, the goal is to win, but it is the goal that is important, not the winning.*
+> -- Reiner Knizia
+
 ---
-# Skills
+## Skills
 
 | Programming     | Tools          | Platforms                  | Other               |
 | -----           | -----          | -----                      | -----               |
@@ -28,14 +32,14 @@
 > Legend: ▣▢▢▢ basic, ▣▣▢▢ regular, ▣▣▣▢ advanced, ▣▣▣▣ expert
 
 ---
-# Certifications
+## Certifications
 * Sun Certified Java Programmer for Java 1.5.
 * [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/78b480e5-2bf8-4539-94fc-c2e32cd9ed01?key=3628f63f8b96f9db5ad46e29e8c6463359da22fa088ed79e8d503273951d6103&record_view=true)
 
 ---
-# Project experience
+## Project experience
 
-### Atlassian Administrator/Developer
+#### Atlassian Administrator/Developer
 Sygnity, 2018-now
 
 ###### Skills:
@@ -45,7 +49,7 @@ Sygnity, 2018-now
 > Atlassian on-premise stack maintenance - users, permissions, project configurations, workflows, plugins - but also servers administration. A lot of customization of Jira-based apps, including mailny Groovy-scripted. Creating and managin ScriptRunner source files pipeline. Custom Jira plugins developer (mainly reports). Online and on-site Git training for teams moving from SVN. Support for teams while implementing DevOps pipelines on BitBucket/Bamboo Server.
 
 
-### System Administrator 
+#### System Administrator 
 Sygnity, 2018-
 
 ###### Skills:
@@ -55,21 +59,21 @@ Sygnity, 2018-
 > A wide spectrum of maintenance, customization and SRE-like tasks for back-office server/app fleet. Setting up monitoring/SIEM platforms including custom Wazuh log decoders.
 
 
-### Release Administrator
+#### Release Administrator
 Sygnity, 2008-2019
 
 ###### Skills:
 > Jenkins, Ant, Maven, JBoss, Linux, Bash, JavaScript
 
-###### Responsibilities
+###### Responsibilities:
 > Merging changes between SVN branches and releasing verions. Migrating building from local machine to Jenkins pipeline. Creating and managing automation scripts (mix of Ant, Maven and Bash).
 
 
-### Java Developer
+#### Java Developer
 Projekty Bankowe Polsoft, 2005-2008
 
 ###### Skills:
 > Java SE, PKI architecture.
 
-###### Responsibilities
+###### Responsibilities:
 > Developing Bouncy Castle library-based application for signing documents in workflow web application. Designing Java-applet interface. Connecting to various hardware token providers. Windows Server CA administration.
