@@ -4,7 +4,7 @@ Java certified programmer
 
 # Skills
 
-| * Programming           | * Platforms                |
+| h2. Programming         | ## Platforms               |
 | ●●●● Java (SE)          | ●●●○ Apache (httpd)        |
 | ●●●○ Groovy             | ●●●○ Apache Tomcat         |
 | ●●○○ Bash               | ●●○○ Google Cloud Platform |
@@ -12,7 +12,7 @@ Java certified programmer
 | ●●○○ Python             | ●○○○ Docker                |
 | ●○○○ Go                 |                            |
 |                         |                            |
-| * Tools                 | * Other                    |
+| * Tools                 | <h2>Other</h2>             |
 | ●●●● Git                | ●●●● Jira Server           |
 | ●●●○ Bamboo             | ●●●○ Confluence Server     |
 | ●●●○ Gitlab             | ●●●○ PKI                   |
