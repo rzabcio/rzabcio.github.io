@@ -4,18 +4,18 @@ Java certified programmer
 
 # Skills
 
-| Programming             | Tools                   | Platforms                  | Other                      |
-| -----                   | -----                   | -----                      | -----                      |
-| ◼◼◼◼ Java (SE)        | ◼◼◼◼ Git                | ◼◼◼◻ Apache (httpd)        | ◼◼◼◼ Jira Server           |
-| ◼◼◼◻ Groovy           | ◼◼◼◻ Bamboo             | ◼◼◼◻ Apache Tomcat         | ■■■_ Confluence Server     |
-| ◼◼◻◻ Bash             | ◼◼◼◻ Gitlab             | ◼◼◻◻ Google Cloud Platform | ▣▣▣▢ PKI                   |
-| ◼◼◻◻ JavaScript       | ◼◼◼◻ Bitbucket (server) | ■■__ Kubernetes            | ■■■▢ Linux                 |
-| ◼◼◻◻ Python           | ◼◼◼◻ Jenkins            | ◼◻◻◻ Docker                | ■■□□ Crowd Server          |
-| ◼◻◻◻ Go               | ◼◼◼◻ Wazuh              |                            | ◼◻◻◻◻ Windows Server        |
-|                         | ◼◼◻◻ Gitlab             |                            |                            |
-|                         | ◼◼◻◻ Ansible            |                            |                            |
-|                         | ◼◻◻◻ Terraform          |                            |                            |
-|                         | ◼◻◻◻ Zabbix             |                            |                            |
+| Programming             | Tools                     | Platforms                    | Other                        |
+| -----                   | -----                     | -----                        | -----                        |
+| ▣▣▣▣ Java (SE)        | ◼◼◼◼ Git                | ▣▣▣▢ Apache (httpd)        | ▣▣▣▣ Jira                  |
+| ▣▣▣▢ Groovy           | ▣▣▣▢ Bamboo             | ▣▣▣▢ Apache Tomcat         | ▣▣▣▢ Confluence            |
+| ▣▣▢▢ Bash             | ▣▣▣▢ Gitlab             | ▣▣▢▢ Google Cloud Platform | ▣▣▣▢ PKI                   |
+| ▣▣▢▢ JavaScript       | ▣▣▣▢ Bitbucket          | ▣▣▢▢ Kubernetes            | ▣▣▣▢ Linux                 |
+| ▣▣▢▢ Python           | ▣▣▣▢ Jenkins            | ▣▢▢▢ Docker                | ▣▣▢▢ Crowd                 |
+| ▣▢▢▢ Go               | ▣▣▣▢ Wazuh              |                              | ▣▢▢▢ Windows Server        |
+|                         | ▣▣▢▢ Gitlab             |                              |                              |
+|                         | ▣▣▢▢ Ansible            |                              |                              |
+|                         | ▣▢▢▢ Terraform          |                              |                              |
+|                         | ▣▢▢▢ Zabbix             |                              |                              |
 
 > Legend: ◼◻◻◻ basic, ◼◼◻◻ regular, ◼◼◼◻ advanced, ◼◼◼◼ expert
 
