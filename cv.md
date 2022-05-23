@@ -6,7 +6,7 @@ Java certified programmer
 
 | Programming             | Tools                     | Platforms                    | Other                        |
 | -----                   | -----                     | -----                        | -----                        |
-| ▣▣▣▣ Java (SE)        | ◼◼◼◼ Git                | ▣▣▣▢ Apache (httpd)        | ▣▣▣▣ Jira                  |
+| ▣▣▣▣ Java (SE)        | ▣▣▣▣ Git                | ▣▣▣▢ Apache (httpd)        | ▣▣▣▣ Jira                  |
 | ▣▣▣▢ Groovy           | ▣▣▣▢ Bamboo             | ▣▣▣▢ Apache Tomcat         | ▣▣▣▢ Confluence            |
 | ▣▣▢▢ Bash             | ▣▣▣▢ Gitlab             | ▣▣▢▢ Google Cloud Platform | ▣▣▣▢ PKI                   |
 | ▣▣▢▢ JavaScript       | ▣▣▣▢ Bitbucket          | ▣▣▢▢ Kubernetes            | ▣▣▣▢ Linux                 |
