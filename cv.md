@@ -7,11 +7,11 @@ Java certified programmer
 | Programming             | Tools                   | Platforms                  | Other                      |
 | -----                   | -----                   | -----                      | -----                      |
 | ◼◼◼◼ Java (SE)        | ◼◼◼◼ Git                | ◼◼◼◻ Apache (httpd)        | ◼◼◼◼ Jira Server           |
-| ◼◼◼◻ Groovy           | ◼◼◼◻ Bamboo             | ◼◼◼◻ Apache Tomcat         | ◼◼◼◻ Confluence Server     |
-| ◼◼◻◻ Bash             | ◼◼◼◻ Gitlab             | ◼◼◻◻ Google Cloud Platform | ◼◼◼◻ PKI                   |
-| ◼◼◻◻ JavaScript       | ◼◼◼◻ Bitbucket (server) | ◼◼◻◻ Kubernetes            | ◼◼◼◻ Linux                 |
-| ◼◼◻◻ Python           | ◼◼◼◻ Jenkins            | ◼◻◻◻ Docker                | ◼◼◻◻ Crowd Server          |
-| ◼◻◻◻ Go               | ◼◼◼◻ Wazuh              |                            | ◼◻◻◻ Windows Server        |
+| ◼◼◼◻ Groovy           | ◼◼◼◻ Bamboo             | ◼◼◼◻ Apache Tomcat         | ■■■_ Confluence Server     |
+| ◼◼◻◻ Bash             | ◼◼◼◻ Gitlab             | ◼◼◻◻ Google Cloud Platform | ▣▣▣▢ PKI                   |
+| ◼◼◻◻ JavaScript       | ◼◼◼◻ Bitbucket (server) | ■■__ Kubernetes            | ■■■▢ Linux                 |
+| ◼◼◻◻ Python           | ◼◼◼◻ Jenkins            | ◼◻◻◻ Docker                | ■■□□ Crowd Server          |
+| ◼◻◻◻ Go               | ◼◼◼◻ Wazuh              |                            | ◼◻◻◻◻ Windows Server        |
 |                         | ◼◼◻◻ Gitlab             |                            |                            |
 |                         | ◼◼◻◻ Ansible            |                            |                            |
 |                         | ◼◻◻◻ Terraform          |                            |                            |
