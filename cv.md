@@ -6,9 +6,9 @@
 > Board game geek, dog person.
 
 * Contact:
-> ✉ rzabcio@gmail.com
+> ✉ [rzabcio@gmail.com](emailto:rzabcio@gmail.com)
 > 
-> 🖁 +48 501649677
+> 🖁 [+48 501649677](tel:48501649677)
 
 * Motto:
 > *When playing a game, the goal is to win, but it is the goal that is important, not the winning.*
@@ -65,6 +65,7 @@ Sygnity, 2018-now
 
 ### Release Administrator
 Sygnity, 2008-2019
+
 **Sidoma** - stock market J2EE application, multi-client (e.g., ING, Noble Securities, BNP Paribas, Michael/Strom)
 
 ###### Skills:
@@ -76,6 +77,7 @@ Sygnity, 2008-2019
 
 ### Java Developer
 Projekty Bankowe Polsoft, 2005-2008
+
 **eDokumenty** - workflow for e-documents, multi-client (e.g., ZKZL, Toruń City Hall, Policja Polska)
 
 ###### Skills:
@@ -87,19 +89,19 @@ Projekty Bankowe Polsoft, 2005-2008
 
 ---
 ## Edutation
-* Poznan University of Technology, Math master degree, thesis subject: "Solving systems of linear equations in interval arithmetic"
-* Marie Curie-Skłodowska High School in Złotów
+* **Poznan University of Technology**, Math master degree, thesis subject: *"Solving systems of linear equations in interval arithmetic"*
+* **Marie Curie-Skłodowska High School** in Złotów
 
 
 ---
 ## Languages
-* Polish: mother tongue
-* English: C1
+* **Polish**: mother tongue
+* **English**: C1
 
 
 ---
 ## Hobbies
-* Hopeless case of board game geek: all kinds, from ameri-trash to euro-like and everything in between, especially from Uwe Rosenberg, Vital Lacerda and Volko Runhke.
-* Acquired taste for good movies from partner, huge fan of Wes Anderson (symmetry!).
-* Books: loves great, humanistic science fiction (e.g., Stanisław Lem, Janusz Zajdel) but not very picky about any novel book.
-* Casual video game player, cloud gaming early adopter and enthiusiast.
+* Hopeless case of **board game** geek: all kinds, from ameri-trash to euro-like and everything in between, especially from Uwe Rosenberg, Vital Lacerda and Volko Runhke.
+* Acquired taste for good **movies** from partner, huge fan of Wes Anderson (symmetry!).
+* **Books**: loves great, humanistic science fiction (e.g., Stanisław Lem, Janusz Zajdel) but not very picky about any novel book.
+* Casual **video game player**, cloud gaming early adopter and enthiusiast.
