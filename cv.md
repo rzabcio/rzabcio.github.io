@@ -1,4 +1,7 @@
-# Jakub Głazik
+---
+layout: default
+title: Jakub Głazik Curriculum Vitae
+---
 
 * About me:
 > Java certified programmer, Math master degree.
