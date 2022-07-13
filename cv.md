@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 title: Jakub Głazik
 description: Curriculum Vitae
 ---
