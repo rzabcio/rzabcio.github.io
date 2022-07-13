@@ -57,7 +57,7 @@ Sygnity, 2018-now
 > Atlassian on-premise stack maintenance - users, permissions, project configurations, workflows, plugins - including servers administration. Customizations of Jira-based apps, including Groovy-scripting (post-functions, validators, behaviors). Creating and managing script files CI/CD pipeline. Implementing report plugins. Online and on-site Git training for teams moving to Bitbucket. Support for teams while implementing pipelines on BitBucket/Bamboo Server.
 
 
-### System Administrator 
+#### System Administrator 
 Sygnity, 2018-now
 
 ###### Skills:
@@ -67,7 +67,7 @@ Sygnity, 2018-now
 > A wide spectrum of maintenance, customization and SRE-like tasks for back-office servers/apps fleet. Setting up monitoring/SIEM platforms including custom Wazuh log decoders.
 
 
-### Release Administrator
+#### Release Administrator
 Sygnity, 2008-2019
 
 **Sidoma** - stock market J2EE application, multi-client (e.g., ING, Noble Securities, BNP Paribas, Michael/Strom)
@@ -79,7 +79,7 @@ Sygnity, 2008-2019
 > Creating, developing and managing CD pipeline. Merging changes between SVN branches (trunk based development, client/release branches). Building releases, preparing install documentation. Developing continous delivery from scratch - from local machine manual building to Jenkins pipeline. Creating and managing automation scripts (mix of Ant, Maven and Bash).
 
 
-### Java Developer
+#### Java Developer
 Projekty Bankowe Polsoft, 2005-2008
 
 **eDokumenty** - workflow for e-documents, multi-client (e.g., ZKZL, Toruń City Hall, Policja Polska)
