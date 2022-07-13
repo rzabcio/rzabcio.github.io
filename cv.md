@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Jakub Głazik Curriculum Vitae
+title: Jakub Głazik
+description: Curriculum Vitae
 ---
 
 * About me:
@@ -46,7 +47,7 @@ title: Jakub Głazik Curriculum Vitae
 ---
 ## Project experience
 
-### Atlassian Administrator/Developer
+#### Atlassian Administrator/Developer
 Sygnity, 2018-now
 
 ###### Skills:
