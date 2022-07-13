@@ -21,7 +21,7 @@
 | Programming     | Tools          | Platforms       | Other           |
 | -----           | -----          | -----           | -----           |
 | ▣▣▣▣ Java (SE)  | ▣▣▣▣ Git       | ▣▣▣▢ Apache     | ▣▣▣▣ Jira       |
-| ▣▣▣▢ Groovy     | ▣▣▣▢ Bamboo    | ▣▣▣▢ Apache     | ▣▣▣▢ Confluence |
+| ▣▣▣▢ Groovy     | ▣▣▣▢ Bamboo    | ▣▣▣▢ Tomcat     | ▣▣▣▢ Confluence |
 | ▣▣▢▢ Bash       | ▣▣▣▢ Gitlab    | ▣▣▢▢ GCP        | ▣▣▣▢ PKI        |
 | ▣▣▢▢ JavaScript | ▣▣▣▢ Bitbucket | ▣▣▢▢ Kubernetes | ▣▣▣▢ Linux      |
 | ▣▣▢▢ Python     | ▣▣▣▢ Jenkins   | ▣▢▢▢ JBoss      | ▣▣▢▢ Crowd      |
