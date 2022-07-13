@@ -6,7 +6,7 @@
 > Board game geek, dog person.
 
 * Contact:
-> ✉ [rzabcio@gmail.com](emailto:rzabcio@gmail.com)
+> ✉ [rzabcio@gmail.com](mailto:rzabcio@gmail.com)
 > 
 > 🖁 [+48 501649677](tel:48501649677)
 
@@ -18,18 +18,18 @@
 ---
 ## Skills
 
-| Programming     | Tools          | Platforms           | Other               |
-| -----           | -----          | -----               | -----               |
-| ▣▣▣▣ Java (SE)  | ▣▣▣▣ Git       | ▣▣▣▢ Apache (httpd) | ▣▣▣▣ Jira           |
-| ▣▣▣▢ Groovy     | ▣▣▣▢ Bamboo    | ▣▣▣▢ Apache Tomcat  | ▣▣▣▢ Confluence     |
-| ▣▣▢▢ Bash       | ▣▣▣▢ Gitlab    | ▣▣▢▢ GCP            | ▣▣▣▢ PKI            |
-| ▣▣▢▢ JavaScript | ▣▣▣▢ Bitbucket | ▣▣▢▢ Kubernetes     | ▣▣▣▢ Linux          |
-| ▣▣▢▢ Python     | ▣▣▣▢ Jenkins   | ▣▢▢▢ JBoss          | ▣▣▢▢ Crowd          |
-| ▣▢▢▢ Go         | ▣▣▣▢ Wazuh     | ▣▢▢▢ Docker         | ▣▢▢▢ Windows Server |
-| ▣▢▢▢ SQL        | ▣▣▢▢ Gitlab    |                     |                     |
-|                 | ▣▣▢▢ Ansible   |                     |                     |
-|                 | ▣▢▢▢ Terraform |                     |                     |
-|                 | ▣▢▢▢ Zabbix    |                     |                     |
+| Programming     | Tools          | Platforms       | Other           |
+| -----           | -----          | -----           | -----           |
+| ▣▣▣▣ Java (SE)  | ▣▣▣▣ Git       | ▣▣▣▢ Apache     | ▣▣▣▣ Jira       |
+| ▣▣▣▢ Groovy     | ▣▣▣▢ Bamboo    | ▣▣▣▢ Apache     | ▣▣▣▢ Confluence |
+| ▣▣▢▢ Bash       | ▣▣▣▢ Gitlab    | ▣▣▢▢ GCP        | ▣▣▣▢ PKI        |
+| ▣▣▢▢ JavaScript | ▣▣▣▢ Bitbucket | ▣▣▢▢ Kubernetes | ▣▣▣▢ Linux      |
+| ▣▣▢▢ Python     | ▣▣▣▢ Jenkins   | ▣▢▢▢ JBoss      | ▣▣▢▢ Crowd      |
+| ▣▢▢▢ Go         | ▣▣▣▢ Wazuh     | ▣▢▢▢ Docker     | ▣▢▢▢ Windows    |
+| ▣▢▢▢ SQL        | ▣▣▢▢ Gitlab    |                 |                 |
+|                 | ▣▣▢▢ Ansible   |                 |                 |
+|                 | ▣▢▢▢ Terraform |                 |                 |
+|                 | ▣▢▢▢ Zabbix    |                 |                 |
 
 > Legend: ▣▢▢▢ basic, ▣▣▢▢ regular, ▣▣▣▢ advanced, ▣▣▣▣ expert
 
@@ -88,7 +88,7 @@ Projekty Bankowe Polsoft, 2005-2008
 
 
 ---
-## Edutation
+## Education
 * **Poznan University of Technology**, Math master degree, thesis subject: *"Solving systems of linear equations in interval arithmetic"*
 * **Marie Curie-Skłodowska High School** in Złotów
 
