@@ -5,9 +5,9 @@ description: Curriculum Vitae
 ---
 
 * About me:
-> Java certified programmer, Math master degree.
-> Jira administrator, sys-admin, DevOps, GCP certified engineer, Linux and Vim enthusiast.
-> Board game geek, dog person.
+> Java certified programmer, Math master degree.   
+> Jira administrator, sys-admin, DevOps, GCP certified engineer, Linux and Vim enthusiast.   
+> Board game geek, dog person.   
 
 * Contact:
 > email: [rzabcio@gmail.com](mailto:rzabcio@gmail.com)   
@@ -15,7 +15,7 @@ description: Curriculum Vitae
 > LinkedIn: [profile](https://www.linkedin.com/in/jakub-g%C5%82azik-b4545b4b/)   
 
 * Motto:
-> *When playing a game, the goal is to win, but it is the goal that is important, not the winning.*
+> *When playing a game, the goal is to win, but it is the goal that is important, not the winning.*   
 > -- Reiner Knizia
 
 
