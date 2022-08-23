@@ -8,4 +8,4 @@ Board game geek, Java certified programmer, Jira administrator, sys-admin, GCP c
 
 ... so kinda jack of all trades.
 
-Get my CV: [html](cv.md) / [pdf](https://rzabcio.git.io/CV%20-%20Jakub%20G%C5%82azik.pdf)
+Get my CV: [html](cv.md) / [pdf](https://rzabcio.github.io/CV%20-%20Jakub%20G%C5%82azik.pdf)
