@@ -11,9 +11,8 @@ description: Curriculum Vitae
 
 * Contact:
 > email: [rzabcio@gmail.com](mailto:rzabcio@gmail.com)
-> 
 > tel: [+48 501649677](tel:48501649677)
->
+
 > LinkedIn: [profile](https://www.linkedin.com/in/jakub-g%C5%82azik-b4545b4b/)
 
 * Motto:
@@ -28,11 +27,11 @@ description: Curriculum Vitae
 | -----           | -----          | -----           | -----           |
 | ▣▣▣▣ Java (SE)  | ▣▣▣▣ Git       | ▣▣▣▢ Apache     | ▣▣▣▣ Jira       |
 | ▣▣▣▢ Groovy     | ▣▣▣▢ Bamboo    | ▣▣▣▢ Tomcat     | ▣▣▣▢ Confluence |
-| ▣▣▢▢ Bash       | ▣▣▣▢ Gitlab    | ▣▣▢▢ GCP        | ▣▣▣▢ PKI        |
-| ▣▣▢▢ JavaScript | ▣▣▣▢ Bitbucket | ▣▣▢▢ Kubernetes | ▣▣▣▢ Linux      |
-| ▣▣▢▢ Python     | ▣▣▣▢ Jenkins   | ▣▢▢▢ JBoss      | ▣▣▢▢ Crowd      |
-| ▣▢▢▢ Go         | ▣▣▣▢ Wazuh     | ▣▢▢▢ Docker     | ▣▢▢▢ Windows    |
-| ▣▢▢▢ SQL        | ▣▣▢▢ Ansible   |                 |                 |
+| ▣▣▢▢ Bash       | ▣▣▣▢ Bitbucket | ▣▣▢▢ GCP        | ▣▣▣▢ PKI        |
+| ▣▣▢▢ JavaScript | ▣▣▣▢ Jenkins   | ▣▣▢▢ Kubernetes | ▣▣▣▢ Linux      |
+| ▣▣▢▢ Python     | ▣▣▣▢ Wazuh     | ▣▢▢▢ JBoss      | ▣▣▢▢ Crowd      |
+| ▣▢▢▢ Go         | ▣▣▢▢ Ansible   | ▣▢▢▢ Docker     | ▣▢▢▢ Windows    |
+| ▣▢▢▢ SQL        | ▣▣▢▢ Gitlab    |                 |                 |
 |                 | ▣▢▢▢ Terraform |                 |                 |
 |                 | ▣▢▢▢ Zabbix    |                 |                 |
 
