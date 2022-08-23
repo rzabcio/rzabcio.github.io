@@ -5,9 +5,7 @@ description: Curriculum Vitae
 ---
 
 * About me:
-> Java certified programmer, Math master degree.   
-> Jira administrator, sys-admin, DevOps, GCP certified engineer, Linux and Vim enthusiast.   
-> Board game geek, dog person.   
+> Java certified programmer, Math master degree. Jira administrator, sys-admin, DevOps, GCP certified engineer, Linux and Vim enthusiast. Board game geek, dog person.
 
 * Contact:
 > email: [rzabcio@gmail.com](mailto:rzabcio@gmail.com)   
@@ -39,9 +37,9 @@ description: Curriculum Vitae
 
 ---
 ## Certifications
-* Sun Certified Java Programmer for Java 1.5.
-* [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/78b480e5-2bf8-4539-94fc-c2e32cd9ed01?key=3628f63f8b96f9db5ad46e29e8c6463359da22fa088ed79e8d503273951d6103&record_view=true)
-* [Google Cloud Certified Professional Cloud Developer](https://www.credential.net/723f3067-0dc9-4510-9974-f632b46ed867#gs.91nodn)
+* Sun Certified Java Programmer for Java 1.5, 2008.
+* [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/78b480e5-2bf8-4539-94fc-c2e32cd9ed01?key=3628f63f8b96f9db5ad46e29e8c6463359da22fa088ed79e8d503273951d6103&record_view=true), July 2021.
+* [Google Cloud Certified Professional Cloud Developer](https://www.credential.net/723f3067-0dc9-4510-9974-f632b46ed867#gs.91nodn), August 2022.
 
 
 ---
@@ -54,7 +52,7 @@ Sygnity, 2018-now
 > Jira, Bitbucket, Bamboo, Confluence, Crowd, Groovy, Linux, Bash, Windows Server, Tomcat, Python, JavaScript
 
 ###### Responsibilities:
-> Atlassian on-premise stack maintenance - users, permissions, project configurations, workflows, plugins - including servers administration. Customizations of Jira-based apps, including Groovy-scripting (post-functions, validators, behaviors). Creating and managing script files CI/CD pipeline. Implementing report plugins. Online and on-site Git training for teams moving to Bitbucket. Support for teams while implementing pipelines on BitBucket/Bamboo Server.
+> Atlassian on-premise stack maintenance - users, permissions, project configurations, workflows, plugins - including servers administration. Customizations of Jira-based apps, including Groovy-scripting (post-functions, validators, behaviors). Creating and managing script files CI/CD pipelines. Implementing report plugins. Online and on-site Git training for teams moving to Bitbucket. Support for teams while implementing pipelines on BitBucket/Bamboo Server.
 
 
 #### System Administrator 
@@ -76,7 +74,7 @@ Sygnity, 2008-2019
 > Jenkins, SVN, Ant, Maven, JBoss, Linux, Bash, JavaScript
 
 ###### Responsibilities:
-> Creating, developing and managing CD pipeline. Merging changes between SVN branches (trunk based development, client/release branches). Building releases, preparing install documentation. Developing continous delivery from scratch - from local machine manual building to Jenkins pipeline. Creating and managing automation scripts (mix of Ant, Maven and Bash).
+> Creating, developing and managing CD pipelines. Merging changes between SVN branches (trunk based development, client/release branches). Building releases, preparing install documentation. Developing continous delivery from scratch - from local machine manual building to Jenkins pipeline. Creating and managing automation scripts (mix of Ant, Maven and Bash).
 
 
 #### Java Developer
@@ -106,6 +104,6 @@ Projekty Bankowe Polsoft, 2005-2008
 ---
 ## Hobbies
 * Hopeless case of **board game** geek: all kinds, from ameri-trash to euro-like and everything in between, especially from Uwe Rosenberg, Vital Lacerda and Volko Runhke.
-* Acquired taste for good **movies** from partner, huge fan of Wes Anderson (symmetry!).
+* Acquired a taste for good **movies** from a partner. Huge fan of Wes Anderson (symmetry!).
 * **Books**: loves great, humanistic science fiction (e.g., Stanisław Lem, Janusz Zajdel) but not very picky about any novel book.
-* Casual **video game player**, cloud gaming early adopter and enthiusiast.
+* Casual **video game player** valuing more a good story over competition aspect. Cloud gaming early adopter and enthiusiast.
