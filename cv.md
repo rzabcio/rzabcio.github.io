@@ -10,10 +10,9 @@ description: Curriculum Vitae
 > Board game geek, dog person.
 
 * Contact:
-> email: [rzabcio@gmail.com](mailto:rzabcio@gmail.com)
-> tel: [+48 501649677](tel:48501649677)
-
-> LinkedIn: [profile](https://www.linkedin.com/in/jakub-g%C5%82azik-b4545b4b/)
+> email: [rzabcio@gmail.com](mailto:rzabcio@gmail.com)   
+> tel: [+48 501649677](tel:48501649677)   
+> LinkedIn: [profile](https://www.linkedin.com/in/jakub-g%C5%82azik-b4545b4b/)   
 
 * Motto:
 > *When playing a game, the goal is to win, but it is the goal that is important, not the winning.*
