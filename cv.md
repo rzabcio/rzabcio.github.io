@@ -4,6 +4,7 @@ title: Jakub Głazik
 description: Curriculum Vitae
 ---
 
+* Download [PDF version](https://rzabcio.git.io/CV%20-%20Jakub%20G%C5%82azik.pdf)
 * About me:
 > Java certified programmer, Math master degree. Jira administrator, sys-admin, DevOps, GCP certified engineer, Linux and Vim enthusiast. Board game geek, dog person.
 
