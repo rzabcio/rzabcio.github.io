@@ -10,9 +10,11 @@ description: Curriculum Vitae
 > Board game geek, dog person.
 
 * Contact:
-> ✉ [rzabcio@gmail.com](mailto:rzabcio@gmail.com)
+> email: [rzabcio@gmail.com](mailto:rzabcio@gmail.com)
 > 
-> 🖁 [+48 501649677](tel:48501649677)
+> tel: [+48 501649677](tel:48501649677)
+>
+> LinkedIn: [profile](https://www.linkedin.com/in/jakub-g%C5%82azik-b4545b4b/)
 
 * Motto:
 > *When playing a game, the goal is to win, but it is the goal that is important, not the winning.*
@@ -30,8 +32,7 @@ description: Curriculum Vitae
 | ▣▣▢▢ JavaScript | ▣▣▣▢ Bitbucket | ▣▣▢▢ Kubernetes | ▣▣▣▢ Linux      |
 | ▣▣▢▢ Python     | ▣▣▣▢ Jenkins   | ▣▢▢▢ JBoss      | ▣▣▢▢ Crowd      |
 | ▣▢▢▢ Go         | ▣▣▣▢ Wazuh     | ▣▢▢▢ Docker     | ▣▢▢▢ Windows    |
-| ▣▢▢▢ SQL        | ▣▣▢▢ Gitlab    |                 |                 |
-|                 | ▣▣▢▢ Ansible   |                 |                 |
+| ▣▢▢▢ SQL        | ▣▣▢▢ Ansible   |                 |                 |
 |                 | ▣▢▢▢ Terraform |                 |                 |
 |                 | ▣▢▢▢ Zabbix    |                 |                 |
 
