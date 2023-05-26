@@ -5,6 +5,7 @@ description: Curriculum Vitae
 ---
 
 * Download [PDF version](https://rzabcio.github.io/CV%20-%20Jakub%20G%C5%82azik.pdf)
+
 * About me:
 > Java certified programmer, Math master degree. Jira administrator, sys-admin, DevOps, GCP certified engineer, Linux and Vim enthusiast. Board game geek, dog person.
 
@@ -21,17 +22,18 @@ description: Curriculum Vitae
 ---
 ## Skills
 
-| Programming     | Tools          | Platforms       | Other           |
-| -----           | -----          | -----           | -----           |
-| ▣▣▣▣ Java (SE)  | ▣▣▣▣ Git       | ▣▣▣▢ Apache     | ▣▣▣▣ Jira       |
-| ▣▣▣▢ Groovy     | ▣▣▣▢ Bamboo    | ▣▣▣▢ Tomcat     | ▣▣▣▢ Confluence |
-| ▣▣▢▢ Bash       | ▣▣▣▢ Bitbucket | ▣▣▢▢ GCP        | ▣▣▣▢ PKI        |
-| ▣▣▢▢ JavaScript | ▣▣▣▢ Jenkins   | ▣▣▢▢ Kubernetes | ▣▣▣▢ Linux      |
-| ▣▣▢▢ Python     | ▣▣▣▢ Wazuh     | ▣▢▢▢ JBoss      | ▣▣▢▢ Crowd      |
-| ▣▢▢▢ Go         | ▣▣▢▢ Ansible   | ▣▢▢▢ Docker     | ▣▢▢▢ Windows    |
-| ▣▢▢▢ SQL        | ▣▣▢▢ Gitlab    |                 |                 |
-|                 | ▣▢▢▢ Terraform |                 |                 |
-|                 | ▣▢▢▢ Zabbix    |                 |                 |
+| Programming     | Tools            | Platforms         | Other           |
+| -----           | -----            | -----             | -----           |
+| ▣▣▣▣ Java (SE)  | ▣▣▣▣ Git         | ▣▣▣▢ Apache/Httpd | ▣▣▣▣ Jira       |
+| ▣▣▣▢ Groovy     | ▣▣▣▢ Bamboo      | ▣▣▣▢ Tomcat       | ▣▣▣▢ Confluence |
+| ▣▣▢▢ Bash       | ▣▣▣▢ Bitbucket   | ▣▣▢▢ GCP          | ▣▣▣▢ PKI        |
+| ▣▣▢▢ JavaScript | ▣▣▣▢ Jenkins     | ▣▣▢▢ Kubernetes   | ▣▣▣▢ Linux      |
+| ▣▣▢▢ Python     | ▣▣▣▢ Wazuh (ELK) | ▣▢▢▢ JBoss        | ▣▣▢▢ Crowd      |
+| ▣▣▢▢ Go         | ▣▣▢▢ Ansible     | ▣▢▢▢ Docker       | ▣▢▢▢ Windows    |
+| ▣▣▢▢ Frontend   | ▣▣▢▢ Gitlab      |                   |                 |
+| ▣▢▢▢ SQL        | ▣▣▢▢ Nexus       |                   |                 |
+|                 | ▣▢▢▢ Terraform   |                   |                 |
+|                 | ▣▢▢▢ Zabbix      |                   |                 |
 
 > Legend: ▣▢▢▢ basic, ▣▣▢▢ regular, ▣▣▣▢ advanced, ▣▣▣▣ expert
 
@@ -50,32 +52,45 @@ description: Curriculum Vitae
 Sygnity, 2018-now
 
 ###### Skills:
-> Jira, Bitbucket, Bamboo, Confluence, Crowd, Groovy, Linux, Bash, Windows Server, Tomcat, Python, JavaScript
+> Jira, Bitbucket, Bamboo, Confluence, Crowd, Groovy, Linux, Bash, Windows Server, Apache Httpd, Tomcat, Python, JavaScript, Go, Python
 
 ###### Responsibilities:
-> Atlassian on-premise stack maintenance - users, permissions, project configurations, workflows, plugins - including servers administration. Customizations of Jira-based apps, including Groovy-scripting (post-functions, validators, behaviors). Creating and managing script files CI/CD pipelines. Implementing report plugins. Online and on-site Git training for teams moving to Bitbucket. Support for teams while implementing pipelines on BitBucket/Bamboo Server.
+> Atlassian on-premise stack administration (users/permissions, workflows, etc.). Working closely to production teams to help fit-in and streamline software production and/or customer support. Mapping back-office processes to **Jira** philosophy (e.g. CMDB, competencies database, overtime system).  
+> Extending **Jira** and **Confluence** capabilities with **Groovy**-based ScriptRunner plugin: programming post-functions/conditions, automation tasks, custom REST endpoints and UI additions. Creating and managing CI/CD pipelines in **Gradle** to speed up script testing and script deployment.  
+> Researching and valuation plugins both for production teams and management. Implementing custom plugins using Atlassian SDK in case of specific needs (mostly **Jira** reports).  
+> Online and on-site **Git** training for teams moving to **Bitbucket**. Support for teams implementing pipelines on **Bamboo** Server. Managing **Bamboo** build agents fleet on **Kubernetes** (with Kubespray) and standalone VMS with **Ansible** automation. Consulting good practices of software engineering (including **DevOps** culture).  
+> Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. bulk user management in **Crowd**, project migration between **Jira** instances, usage reports.
+> Server-side administration (please look below).
 
 
 #### System Administrator 
 Sygnity, 2018-now
 
 ###### Skills:
-> Linux, Bash, Ansible, Wazuh, Zabbix, Atlassian Stack, Git
+> Linux, Bash, Ansible, Wazuh, Zabbix, Atlassian Stack, Git, Nexus, Apache Httpd
 
 ###### Responsibilities:
-> A wide spectrum of maintenance, customization and SRE-like tasks for back-office servers/apps fleet. Setting up monitoring/SIEM platforms including custom Wazuh log decoders.
+> Server administration/maintenance for various back-office corporate apps including beforementioned Atlassian stack.  
+> System administration (mostly **RedHat/CentOS/OEL**), upgrades/migrations, VM-management (mosty VMWare vCenter).  
+> On-call duty and SRE tasks for back-office apps (including beforementioned Atlassian stack). Co-administering **Zabbix** and **Wazuh** tools (including custom log decoders) to monitor servers/app and post-mortem analysis of outages and other encountered problems.  
+> Implementing **Ansible**-based automations for repetable tasks, e.g. prod-to-dev cloning, configuring httpd rev-proxy for apps, HTTPS certificates updates, IBM License Metric Tool scanners management.  
+> Suggesting, implementing and managing software engineering tools to face shadow-IT and provide "toolbox" for production teams, e.g. company-wide **Nexus** server, containerization of **Bamboo** build agents.  
+> Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. synchronizing permissions between **Nexus** and **Crowd**, getting and processing emails with invoices.
 
 
 #### Release Administrator
 Sygnity, 2008-2019
 
-**Sidoma** - stock market J2EE application, multi-client (e.g., ING, Noble Securities, BNP Paribas, Michael/Strom)
+**Sidoma** and **JMaestro** - stock market J2EE applications, multi-client (e.g., ING, Noble Securities, BNP Paribas, Michael/Strom)
 
 ###### Skills:
-> Jenkins, SVN, Ant, Maven, JBoss, Linux, Bash, JavaScript
+> Jenkins, SVN, Git, Ant, Maven, JBoss, Linux, Bash, JavaScript
 
 ###### Responsibilities:
-> Creating, developing and managing CD pipelines. Merging changes between SVN branches (trunk based development, client/release branches). Building releases, preparing install documentation. Developing continous delivery from scratch - from local machine manual building to Jenkins pipeline. Creating and managing automation scripts (mix of Ant, Maven and Bash).
+> Creating, developing and managing deployment pipelines, building releases, preparing install documentation.
+> Source code manager/integrator - merging changes between **SVN** branches (trunk based development, client/release branches), resolving source code conflicts, working closely with production team.  
+> Developing continous delivery from scratch - from local machine manual building to **Jenkins** pipeline which resulted in 10x speeding up of release delivery. Creating and managing automation scripts (mix of Ant, Maven and Bash).  
+> Migrating large SVN repository to **Git**, training teams for new VCS, adjusting existing procedures and pipelines.  
 
 
 #### Java Developer
@@ -87,7 +102,15 @@ Projekty Bankowe Polsoft, 2005-2008
 > Java SE, PKI architecture
 
 ###### Responsibilities:
-> Developing Bouncy Castle based application for signing/verifing e-documents. Embedding Java-applet into web application. Implementing two way SSL/TLS login feature. Connecting to various hardware token providers (PKCS#11) and file-based (PKCS#12). Implementing PDF (PKCS#7) and XML (XML-DSig) support. Windows Server CA administration.
+> Developing Bouncy Castle based application for signing/verifing e-documents.  
+> Implementing two way SSL/TLS login feature. Connecting to various hardware token providers (PKCS#11) and file-based (PKCS#12). Implementing PDF (PKCS#7) and XML (XML-DSig) support. Windows Server CA administration.  
+> Working with server-side code and Java-applet embedded into web application.
+
+
+---
+## Private and pet projects
+* DOI (Document Object Identifier) management app for NGO cultural publishing house (my partner works in). Based on **GCP**, Cloud Run, and Jira Cloud implemented in **Go** (work in progress, on hold).
+* Raspberry Pi 4 based home-lab with **Kubernetes** deployed with Kubespray (work in progress).
 
 
 ---
