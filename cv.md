@@ -55,13 +55,13 @@ Sygnity, 2018-now
 > Jira, Bitbucket, Bamboo, Confluence, Crowd, Groovy, Linux, Bash, Windows Server, Apache Httpd, Tomcat, Python, JavaScript, Go, Python
 
 ###### Responsibilities:
-> Atlassian on-premise stack administration (users/permissions, workflows, etc.). Working closely to many production teams and PMs/scrum masters across the compsny to help fit-in and streamline software production and/or Customer support. Mapping back-office processes to **Jira** philosophy, e.g. CMDB, competencies database, overtime system.  
+> Atlassian on-premise stack administration (users/permissions, workflows, etc.). Working closely to many production teams and PMs/scrum masters across the company to help fit-in and streamline software production and/or Customer support. Mapping back-office processes to **Jira** philosophy, e.g. CMDB, competencies database, overtime system.  
 >
 > Extending **Jira** and **Confluence** capabilities with **Groovy**-based ScriptRunner plugin: programming workflow post-functions/conditions, automation tasks, custom REST endpoints and UI additions. Creating and managing CI/CD pipelines in **Gradle** to speed-up script testing and deployment.  
 >
 > Researching and valuating third-party plugins for production teams and management. Implementing custom plugins in Atlassian SDK and **Java** for specific requirements (mostly **Jira** reports).  
 >
-> Conducting online and on-site **Git** training sessions for teams moving to **Bitbucket**. Support for teams implementing pipelines on **Bamboo** Server. Managing **Bamboo** build agents fleet on **Kubernetes** and standalone VMs with **Ansible** automation (Kubespray). Consulting good practices of software engineering, including **DevOps** culture.  
+> Conducting online and on-site **Git** training sessions for teams moving to **Bitbucket**. Supporting teams implementing pipelines on **Bamboo** Server. Managing **Bamboo** build agents fleet on **Kubernetes** and standalone VMs with **Ansible** automation (Kubespray). Consulting good practices of software engineering, including **DevOps** culture.  
 >
 > Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. bulk user management in **Crowd**, project migration between **Jira** instances, usage reports.
 >
@@ -76,12 +76,12 @@ Sygnity, 2018-now
 
 ###### Responsibilities:
 > * Server administration/maintenance for various back-office  apps including beforementioned Atlassian stack.  
-> * On-call duty and help desk support team (on Jira Service Management platform) for all Sygnity employees and its Customers.  
-> * Implementing **Ansible**-based automations, e.g. prod-to-dev cloning, configuring httpd rev-proxy for apps, HTTPS certificates updates, IBM License Metric Tool scanners management.  
+> * On-call duty and help desk second-line support (on Jira Service Management platform) for all Sygnity employees and its Customers.  
 > * System administration (mostly **RedHat/CentOS/OEL**), upgrades/migrations, VM-management (mosty VMWare vCenter).  
 > * Wide variety of SRE tasks for back-office apps (including beforementioned Atlassian stack). Co-administering **Zabbix** and **Wazuh** tools (including custom log decoders) to monitor servers/app and post-mortem analysis of outages and other encountered problems.  
 > * Cloud platforms organization administrator - IAM and billing management, organizing project structure, support/consulting. Mostly for **GCP** but also **AWZ**, **Azure**, **OCI**.
 > * Suggesting, implementing and managing software engineering tools to provide "toolbox" for production teams (and prevent shadow IT), e.g. company-wide **Nexus** server, containerization of **Bamboo** build agents.  
+> * Implementing **Ansible**-based automations, e.g. prod-to-dev cloning, configuring httpd rev-proxy for apps, HTTPS certificates updates, IBM License Metric Tool scanners management.  
 > * Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. synchronizing permissions between **Nexus** and **Crowd**, getting and processing emails with invoices.
 
 
