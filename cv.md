@@ -70,12 +70,12 @@ Sygnity, 2018-now
 > Linux, Bash, Ansible, Wazuh, Zabbix, Atlassian Stack, Git, Nexus, Apache Httpd
 
 ###### Responsibilities:
-> Server administration/maintenance for various back-office corporate apps including beforementioned Atlassian stack.  
-> System administration (mostly **RedHat/CentOS/OEL**), upgrades/migrations, VM-management (mosty VMWare vCenter).  
-> On-call duty and SRE tasks for back-office apps (including beforementioned Atlassian stack). Co-administering **Zabbix** and **Wazuh** tools (including custom log decoders) to monitor servers/app and post-mortem analysis of outages and other encountered problems.  
-> Implementing **Ansible**-based automations for repetable tasks, e.g. prod-to-dev cloning, configuring httpd rev-proxy for apps, HTTPS certificates updates, IBM License Metric Tool scanners management.  
-> Suggesting, implementing and managing software engineering tools to face shadow-IT and provide "toolbox" for production teams, e.g. company-wide **Nexus** server, containerization of **Bamboo** build agents.  
-> Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. synchronizing permissions between **Nexus** and **Crowd**, getting and processing emails with invoices.
+> * Server administration/maintenance for various back-office corporate apps including beforementioned Atlassian stack.  
+> * System administration (mostly **RedHat/CentOS/OEL**), upgrades/migrations, VM-management (mosty VMWare vCenter).  
+> * On-call duty and SRE tasks for back-office apps (including beforementioned Atlassian stack). Co-administering **Zabbix** and **Wazuh** tools (including custom log decoders) to monitor servers/app and post-mortem analysis of outages and other encountered problems.  
+> * Implementing **Ansible**-based automations for repetable tasks, e.g. prod-to-dev cloning, configuring httpd rev-proxy for apps, HTTPS certificates updates, IBM License Metric Tool scanners management.  
+> * Suggesting, implementing and managing software engineering tools to face shadow-IT and provide "toolbox" for production teams, e.g. company-wide **Nexus** server, containerization of **Bamboo** build agents.  
+> * Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. synchronizing permissions between **Nexus** and **Crowd**, getting and processing emails with invoices.
 
 
 #### Release Administrator
@@ -87,10 +87,10 @@ Sygnity, 2008-2019
 > Jenkins, SVN, Git, Ant, Maven, JBoss, Linux, Bash, JavaScript
 
 ###### Responsibilities:
-> Creating, developing and managing deployment pipelines, building releases, preparing install documentation.
-> Source code manager/integrator - merging changes between **SVN** branches (trunk based development, client/release branches), resolving source code conflicts, working closely with production team.  
-> Developing continous delivery from scratch - from local machine manual building to **Jenkins** pipeline which resulted in 10x speeding up of release delivery. Creating and managing automation scripts (mix of Ant, Maven and Bash).  
-> Migrating large SVN repository to **Git**, training teams for new VCS, adjusting existing procedures and pipelines.  
+> * Creating, developing and managing deployment pipelines, building releases, preparing install documentation.
+> * Source code manager/integrator - merging changes between **SVN** branches (trunk based development, client/release branches), resolving source code conflicts, working closely with production team.  
+> * Developing continous delivery from scratch - from local machine manual building to **Jenkins** pipeline which resulted in 10x speeding up of release delivery. Creating and managing automation scripts (mix of Ant, Maven and Bash).  
+> * Migrating large SVN repository to **Git**, training teams for new VCS, adjusting existing procedures and pipelines.  
 
 
 #### Java Developer
@@ -102,9 +102,9 @@ Projekty Bankowe Polsoft, 2005-2008
 > Java SE, PKI architecture
 
 ###### Responsibilities:
-> Developing Bouncy Castle based application for signing/verifing e-documents.  
-> Implementing two way SSL/TLS login feature. Connecting to various hardware token providers (PKCS#11) and file-based (PKCS#12). Implementing PDF (PKCS#7) and XML (XML-DSig) support. Windows Server CA administration.  
-> Working with server-side code and Java-applet embedded into web application.
+> * Developing Bouncy Castle based application for signing/verifing e-documents.  
+> * Implementing two way SSL/TLS login feature. Connecting to various hardware token providers (PKCS#11) and file-based (PKCS#12). Implementing PDF (PKCS#7) and XML (XML-DSig) support. Windows Server CA administration.  
+> * Working with server-side code and Java-applet embedded into web application.
 
 
 ---
