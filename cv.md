@@ -7,7 +7,7 @@ description: Curriculum Vitae
 * Download [PDF version](https://rzabcio.github.io/CV%20-%20Jakub%20G%C5%82azik.pdf)
 
 * About me:
-> Java certified programmer, Math master degree. Jira administrator, sys-admin, DevOps, GCP certified engineer, Linux and Vim enthusiast. Board game geek, dog person.
+>  Sysadmin, DevOps, GCP certified engineer, Jira administrator. Linux, Vim and automation enthusiast. Java certified programmer, Math master degree. Board game geek, dog person.
 
 * Contact:
 > email: [rzabcio@gmail.com](mailto:rzabcio@gmail.com)   
@@ -22,15 +22,15 @@ description: Curriculum Vitae
 ---
 ## Skills
 
-| Programming     | Tools            | Platforms         | Other           |
+| Programming     | Tools            | Servers/Platforms | Other           |
 | -----           | -----            | -----             | -----           |
 | ▣▣▣▣ Java (SE)  | ▣▣▣▣ Git         | ▣▣▣▢ Apache/Httpd | ▣▣▣▣ Jira       |
 | ▣▣▣▢ Groovy     | ▣▣▣▢ Bamboo      | ▣▣▣▢ Tomcat       | ▣▣▣▢ Confluence |
 | ▣▣▢▢ Bash       | ▣▣▣▢ Bitbucket   | ▣▣▢▢ GCP          | ▣▣▣▢ PKI        |
 | ▣▣▢▢ JavaScript | ▣▣▣▢ Jenkins     | ▣▣▢▢ Kubernetes   | ▣▣▣▢ Linux      |
-| ▣▣▢▢ Python     | ▣▣▣▢ Wazuh (ELK) | ▣▢▢▢ JBoss        | ▣▣▢▢ Crowd      |
-| ▣▣▢▢ Go         | ▣▣▢▢ Ansible     | ▣▢▢▢ Docker       | ▣▢▢▢ Windows    |
-| ▣▣▢▢ Frontend   | ▣▣▢▢ Gitlab      |                   |                 |
+| ▣▣▢▢ Python     | ▣▣▣▢ Ansible     | ▣▣▢▢ Docker       | ▣▣▢▢ Crowd      |
+| ▣▣▢▢ Go         | ▣▣▣▢ Wazuh (ELK) | ▣▢▢▢ JBoss        | ▣▢▢▢ Windows    |
+| ▣▣▢▢ Frontend   | ▣▣▢▢ Gitlab      | ▣▢▢▢ AWS          |                 |
 | ▣▢▢▢ SQL        | ▣▣▢▢ Nexus       |                   |                 |
 |                 | ▣▢▢▢ Terraform   |                   |                 |
 |                 | ▣▢▢▢ Zabbix      |                   |                 |
@@ -55,9 +55,9 @@ Sygnity, 2018-now
 > Jira, Bitbucket, Bamboo, Confluence, Crowd, Groovy, Linux, Bash, Windows Server, Apache Httpd, Tomcat, Python, JavaScript, Go, Python
 
 ###### Responsibilities:
-> * Atlassian on-premise stack administration (users/permissions, workflows, etc.). Working closely to production teams to help fit-in and streamline software production and/or customer support. Mapping back-office processes to **Jira** philosophy (e.g. CMDB, competencies database, overtime system).  
+> * Atlassian on-premise stack administration (users/permissions, workflows, etc.). Working closely to many production teams and PMs/scrum masters to help fit-in and streamline software production and/or customer support. Mapping back-office processes to **Jira** philosophy (e.g. CMDB, competencies database, overtime system).  
 > * Extending **Jira** and **Confluence** capabilities with **Groovy**-based ScriptRunner plugin: programming post-functions/conditions, automation tasks, custom REST endpoints and UI additions. Creating and managing CI/CD pipelines in **Gradle** to speed up script testing and script deployment.  
-> * Researching and valuation plugins both for production teams and management. Implementing custom plugins using Atlassian SDK in case of specific needs (mostly **Jira** reports).  
+> * Researching and valuation plugins both for production teams and management. Implementing custom plugins using Atlassian SDK and **Java** for specific requirements (mostly **Jira** reports).  
 > * Online and on-site **Git** training for teams moving to **Bitbucket**. Support for teams implementing pipelines on **Bamboo** Server. Managing **Bamboo** build agents fleet on **Kubernetes** (with Kubespray) and standalone VMS with **Ansible** automation. Consulting good practices of software engineering (including **DevOps** culture).  
 > * Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. bulk user management in **Crowd**, project migration between **Jira** instances, usage reports.
 > * Server-side administration (please look below).
@@ -67,14 +67,16 @@ Sygnity, 2018-now
 Sygnity, 2018-now
 
 ###### Skills:
-> Linux, Bash, Ansible, Wazuh, Zabbix, Atlassian Stack, Git, Nexus, Apache Httpd
+> Linux, Bash, Ansible, Wazuh, Zabbix, Atlassian Stack, Git, Nexus, Apache Httpd, GCP, AWS
 
 ###### Responsibilities:
 > * Server administration/maintenance for various back-office corporate apps including beforementioned Atlassian stack.  
+> * On-call duty and help desk support team (on Jira Service Management platform) for all Sygnity employees and its Customers.  
+> * Implementing **Ansible**-based automations, e.g. prod-to-dev cloning, configuring httpd rev-proxy for apps, HTTPS certificates updates, IBM License Metric Tool scanners management.  
 > * System administration (mostly **RedHat/CentOS/OEL**), upgrades/migrations, VM-management (mosty VMWare vCenter).  
-> * On-call duty and SRE tasks for back-office apps (including beforementioned Atlassian stack). Co-administering **Zabbix** and **Wazuh** tools (including custom log decoders) to monitor servers/app and post-mortem analysis of outages and other encountered problems.  
-> * Implementing **Ansible**-based automations for repetable tasks, e.g. prod-to-dev cloning, configuring httpd rev-proxy for apps, HTTPS certificates updates, IBM License Metric Tool scanners management.  
-> * Suggesting, implementing and managing software engineering tools to face shadow-IT and provide "toolbox" for production teams, e.g. company-wide **Nexus** server, containerization of **Bamboo** build agents.  
+> * Wide variety of SRE tasks for back-office apps (including beforementioned Atlassian stack). Co-administering **Zabbix** and **Wazuh** tools (including custom log decoders) to monitor servers/app and post-mortem analysis of outages and other encountered problems.  
+> * Cloud platforms organization administrator - IAM and billing management, organizing project structure, support/consulting. Mostly for **GCP** but also **AWZ**, **Azure**, **OCI**.
+> * Suggesting, implementing and managing software engineering tools to provide "toolbox" for production teams (and prevent shadow IT), e.g. company-wide **Nexus** server, containerization of **Bamboo** build agents.  
 > * Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. synchronizing permissions between **Nexus** and **Crowd**, getting and processing emails with invoices.
 
 
