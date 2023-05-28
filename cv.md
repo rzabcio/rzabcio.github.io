@@ -55,12 +55,12 @@ Sygnity, 2018-now
 > Jira, Bitbucket, Bamboo, Confluence, Crowd, Groovy, Linux, Bash, Windows Server, Apache Httpd, Tomcat, Python, JavaScript, Go, Python
 
 ###### Responsibilities:
-> Atlassian on-premise stack administration (users/permissions, workflows, etc.). Working closely to production teams to help fit-in and streamline software production and/or customer support. Mapping back-office processes to **Jira** philosophy (e.g. CMDB, competencies database, overtime system).  
-> Extending **Jira** and **Confluence** capabilities with **Groovy**-based ScriptRunner plugin: programming post-functions/conditions, automation tasks, custom REST endpoints and UI additions. Creating and managing CI/CD pipelines in **Gradle** to speed up script testing and script deployment.  
-> Researching and valuation plugins both for production teams and management. Implementing custom plugins using Atlassian SDK in case of specific needs (mostly **Jira** reports).  
-> Online and on-site **Git** training for teams moving to **Bitbucket**. Support for teams implementing pipelines on **Bamboo** Server. Managing **Bamboo** build agents fleet on **Kubernetes** (with Kubespray) and standalone VMS with **Ansible** automation. Consulting good practices of software engineering (including **DevOps** culture).  
-> Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. bulk user management in **Crowd**, project migration between **Jira** instances, usage reports.
-> Server-side administration (please look below).
+> * Atlassian on-premise stack administration (users/permissions, workflows, etc.). Working closely to production teams to help fit-in and streamline software production and/or customer support. Mapping back-office processes to **Jira** philosophy (e.g. CMDB, competencies database, overtime system).  
+> * Extending **Jira** and **Confluence** capabilities with **Groovy**-based ScriptRunner plugin: programming post-functions/conditions, automation tasks, custom REST endpoints and UI additions. Creating and managing CI/CD pipelines in **Gradle** to speed up script testing and script deployment.  
+> * Researching and valuation plugins both for production teams and management. Implementing custom plugins using Atlassian SDK in case of specific needs (mostly **Jira** reports).  
+> * Online and on-site **Git** training for teams moving to **Bitbucket**. Support for teams implementing pipelines on **Bamboo** Server. Managing **Bamboo** build agents fleet on **Kubernetes** (with Kubespray) and standalone VMS with **Ansible** automation. Consulting good practices of software engineering (including **DevOps** culture).  
+> * Implementing **Python**/**Go**/**Bash** CLI tools to speed-up administering tasks, e.g. bulk user management in **Crowd**, project migration between **Jira** instances, usage reports.
+> * Server-side administration (please look below).
 
 
 #### System Administrator 
